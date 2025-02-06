@@ -14,7 +14,6 @@ Ensure you have the following tools installed on your system:
 - **Apache Maven** (for dependency management and build)
 - **MySQL** (version 8.0 or higher)
 - **Oracle WebLogic Server** (version 14.1.1)
-- **Git** (for version control)
 
 ## Project Structure
 ```plaintext
