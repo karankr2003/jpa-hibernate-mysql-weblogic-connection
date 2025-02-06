@@ -10,10 +10,10 @@ This project demonstrates how to establish a connection between a MySQL database
 
 ## Prerequisites
 Ensure you have the following tools installed on your system:
-- **Java Development Kit (JDK)** (version 8 or higher)
+- **Java Development Kit (JDK)** (version 11)
 - **Apache Maven** (for dependency management and build)
 - **MySQL** (version 8.0 or higher)
-- **Oracle WebLogic Server** (version 12c or higher)
+- **Oracle WebLogic Server** (version 14.1.1)
 - **Git** (for version control)
 
 ## Project Structure
